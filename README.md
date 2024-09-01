@@ -1,4 +1,4 @@
-### Hi there I'm Arsalan 👋
+### Hi there I'm Amir Arsalan 👋
 
 - 🔭 I’m currently working on MERN Applications
 - 🌱 I’m currently learning Blockchain
